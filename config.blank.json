@@ -1,0 +1,6 @@
+{
+  "SLACK_WEBHOOK_URL": "",
+  "GCP_BUILD": {
+    "STATUS_TO_REPORT": ["SUCCESS", "FAILURE", "INTERNAL_ERROR", "TIMEOUT"]
+  }
+}
